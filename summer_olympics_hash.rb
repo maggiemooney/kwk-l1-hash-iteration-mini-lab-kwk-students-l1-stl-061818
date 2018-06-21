@@ -17,4 +17,5 @@ puts "The #{location} summer olympics took place in #{time}."
 end
 
 
-puts summer_olympics.keys
+summer_olympics_in_all_caps= summer_olympics.upcase
+puts summer_olympics_in_all_caps.keys
