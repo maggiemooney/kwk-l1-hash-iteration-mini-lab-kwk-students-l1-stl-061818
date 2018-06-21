@@ -16,6 +16,4 @@ summer_olympics.each do |location, time|
 puts "The #{location} summer olympics took place in #{time}."
 end
 
-
-summer_olympics_in_all_caps= summer_olympics.upcase
-puts summer_olympics_in_all_caps.keys
+puts summer_olympics.keys.to_s.upcase
