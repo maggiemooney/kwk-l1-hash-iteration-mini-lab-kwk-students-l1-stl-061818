@@ -1,5 +1,4 @@
 
-#def create_olympics_hash
   summer_olympics_hash = {
     "Sydney" => 2000,
     "Athens" => 2004,
